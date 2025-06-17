@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.728d2373.chunk.css",
-    "main.js": "/home/static/js/main.e14e3c79.chunk.js",
-    "main.js.map": "/home/static/js/main.e14e3c79.chunk.js.map",
-    "runtime-main.js": "/home/static/js/runtime-main.5ee548bd.js",
-    "runtime-main.js.map": "/home/static/js/runtime-main.5ee548bd.js.map",
-    "static/js/2.1015303d.chunk.js": "/home/static/js/2.1015303d.chunk.js",
-    "static/js/2.1015303d.chunk.js.map": "/home/static/js/2.1015303d.chunk.js.map",
-    "index.html": "/home/index.html",
-    "precache-manifest.529a22c4380a3f04b9e692e26e6e4c44.js": "/home/precache-manifest.529a22c4380a3f04b9e692e26e6e4c44.js",
-    "service-worker.js": "/home/service-worker.js",
-    "static/css/main.728d2373.chunk.css.map": "/home/static/css/main.728d2373.chunk.css.map",
-    "static/js/2.1015303d.chunk.js.LICENSE.txt": "/home/static/js/2.1015303d.chunk.js.LICENSE.txt",
-    "static/media/picture.png": "/home/static/media/picture.a9f7d88c.png",
-    "static/media/resume.pdf": "/home/static/media/resume.e1688000.pdf",
-    "static/media/zoho.png": "/home/static/media/zoho.e65d5741.png"
+    "main.css": "/my-port/static/css/main.728d2373.chunk.css",
+    "main.js": "/my-port/static/js/main.2b49a831.chunk.js",
+    "main.js.map": "/my-port/static/js/main.2b49a831.chunk.js.map",
+    "runtime-main.js": "/my-port/static/js/runtime-main.81961cf4.js",
+    "runtime-main.js.map": "/my-port/static/js/runtime-main.81961cf4.js.map",
+    "static/js/2.1015303d.chunk.js": "/my-port/static/js/2.1015303d.chunk.js",
+    "static/js/2.1015303d.chunk.js.map": "/my-port/static/js/2.1015303d.chunk.js.map",
+    "index.html": "/my-port/index.html",
+    "precache-manifest.787b8fa9bf8a2697daca9215d27fa021.js": "/my-port/precache-manifest.787b8fa9bf8a2697daca9215d27fa021.js",
+    "service-worker.js": "/my-port/service-worker.js",
+    "static/css/main.728d2373.chunk.css.map": "/my-port/static/css/main.728d2373.chunk.css.map",
+    "static/js/2.1015303d.chunk.js.LICENSE.txt": "/my-port/static/js/2.1015303d.chunk.js.LICENSE.txt",
+    "static/media/picture.png": "/my-port/static/media/picture.a9f7d88c.png",
+    "static/media/resume.pdf": "/my-port/static/media/resume.e1688000.pdf",
+    "static/media/zoho.png": "/my-port/static/media/zoho.e65d5741.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5ee548bd.js",
+    "static/js/runtime-main.81961cf4.js",
     "static/js/2.1015303d.chunk.js",
     "static/css/main.728d2373.chunk.css",
-    "static/js/main.e14e3c79.chunk.js"
+    "static/js/main.2b49a831.chunk.js"
   ]
 }
