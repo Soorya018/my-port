@@ -128,17 +128,17 @@ const experiences = {
   heading: "Experiences",
   data: [
     {
-      role: 'Technical Solutions Engineer - Intern',// Here Add Company Name
+      role: 'Technical Support Engineer - Intern',// Here Add Company Name
       companylogo: require('../assets/img/zoho.png'),
       date: 'June 2020 – Dec 2020',
     },
     {
-      role: 'Technical Solutions Engineer',
+      role: 'Technical Support Engineer',
       companylogo: require('../assets/img/zoho.png'),
       date: 'Jan 2021 – Sept 2022',
     },
     {
-      role: 'Technical Solutions Specilaist',
+      role: 'Technical Support Engineer',
       companylogo: require('../assets/img/solarsquad.png'),
       date: 'Sept 2022 – June 2024',
     }
