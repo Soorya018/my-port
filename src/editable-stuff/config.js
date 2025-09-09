@@ -48,7 +48,7 @@ const about = {
   imageSize: 375,
   message:
     "I am a passionate tech support professional with 4 years of hands-on experience solving complex issues and making technology seamless for users. From troubleshooting at the OS level to integrating APIs and monitoring tools, I thrive on turning problems into solutions. I bring a sharp eye for detail, a love for clean, efficient systems, and a commitment to delivering support that actually supports.",
-  resume: "https://drive.google.com/file/d/1giwMoimBsn4OYJ3Nd5_hJW3pLLuzKmsN/view?usp=sharing",
+  resume: "https://docs.google.com/document/d/1_zfx9hY8AKpnUtdPBH44dhC-kCPAN4EJ/edit?usp=drive_link&ouid=113173808556389277886&rtpof=true&sd=true",
 };
 
 // PROJECTS SECTION
@@ -93,14 +93,15 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "JavaScript, Python, Node.js, React.js, XML, JSON, Shell scripting", value: 90 },
-    { name: "MSSQL, PostgreSQL, MySQL", value: 75 },
-    { name: "Chrome DevTools, Wireshark, Splunk", value: 85 },
-    { name: "Linux (Ubuntu, RHEL), Windows Server", value: 65 },
-    { name: "TCP, UDP, DNS, SSL/TLS, SMTP, SAML 2.0, IMAP4 ", value: 90 },
-    { name: "AWS (including Lambda), VMware, Git, ITIL 4", value: 65 },
-    { name: "JIRA, Zendesk, Salesforce, Confluence", value: 55 },
-    { name: "REST APIs, Webhooks, Postman", value: 80 },
+    { name: "JavaScript, Python, XML, JSON, ReactJS, Shell Scripting", value: 90 },
+    { name: "MSSQL, PostgreSQL, MySQL, Tableau, PowerBI", value: 75 },
+    { name: "Chrome DevTools, Firebug, Wireshark, Splunk", value: 85 },
+    { name: "Prometheus, Grafana, Datadog, Okta", value: 65 },
+    { name: "Linux (Ubuntu, RHEL), Windows Server ", value: 90 },
+    { name: "DNS, SMTP, SAML 2.0, SNMP, TCP/IP, OAuth", value: 65 },
+    { name: "ITIL 4, CMDB, AWS, VMware, SRE, Git", value: 55 },
+    { name: "Zendesk, JIRA, Salesforce, ServiceNow, Confluence", value: 80 },
+    { name: "REST APIs, Webhooks, Browser-based Troubleshooting, Web Application Stack", value: 90 },
   ],
   softSkills: [
     { name: "Customer Obsessed", value: 80 },
